@@ -1,4 +1,3 @@
-# show_links
 Template for creating your own link collection.
 You can edit files to create your own link page!
 
