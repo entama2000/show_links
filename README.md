@@ -4,4 +4,4 @@ You can edit files to create your own link page!
 
 For personal use only, not for commercial use.
 
-Copyright © 2022 entama Inc. All Rights Reserved.
+Copyright © 2024 entama Inc. All Rights Reserved.
